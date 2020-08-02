@@ -1,0 +1,34 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "simple notes app",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Kaalimiro@github.com/Kaalimiro/Notes.git"
+  },
+  "author": "Kaalimiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kaalimiro/Notes/issues"
+  },
+  "homepage": "https://github.com/Kaalimiro/Notes#readme",
+  "devDependencies": {
+    "grunt": "^1.2.1",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "node-sass": "^4.14.1"
+  },
+  "dependencies": {
+    "ruby": "^0.6.1",
+    "sass": "^1.26.10"
+  },
+  "keywords": [
+    "notes",
+    "shopping-list"
+  ]
+}
